@@ -1,0 +1,4 @@
+string str = hello ;
+str.concat(!)
+system.println(str)
+
